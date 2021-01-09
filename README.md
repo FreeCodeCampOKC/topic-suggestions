@@ -42,3 +42,4 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. Why/When Python is Better Than JavaScript
 1. Wouldn't It Be Cool If X?
 1. What are data structures and how are they used?
+1. Getting Started with Debugging
