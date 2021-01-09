@@ -7,7 +7,7 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. A Message to Myself a Year Ago
 1. Asking Questions in Slack
 1. Benefits of Speaking
-1. How <Non-Technical Thing> Has Helped Me in My Career
+1. How `<Non-Technical Thing>` Has Helped Me in My Career
 1. How I Landed My First Programming Job
 1. How to Become a Manager and Why Anyone Would Want To
 1. How to Find a Mentor
