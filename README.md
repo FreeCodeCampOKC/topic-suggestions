@@ -43,3 +43,4 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. Wouldn't It Be Cool If X?
 1. What are data structures and how are they used?
 1. Getting Started with Debugging
+1. How to Start a Python Project
