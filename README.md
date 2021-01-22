@@ -44,3 +44,6 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. What are data structures and how are they used?
 1. Getting Started with Debugging
 1. How to Start a Python Project
+1. How to Get Your Website on the Internet
+1. Salary negotation for a new job
+1. Salary negotiation for an existing job
