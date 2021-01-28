@@ -47,3 +47,4 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. How to Get Your Website on the Internet
 1. Salary negotation for a new job
 1. Salary negotiation for an existing job
+1. Creating a 30-second intro/elevator pitch about yourself
