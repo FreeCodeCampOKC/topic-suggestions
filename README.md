@@ -28,7 +28,7 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. The Coolest Thing I Learned This Year
 1. The Last Time I Brought Down Production
 1. The Silliest App(s) I've Made
-1. The Tool I Can't Work Without/My Favorite Little Tool: _name_
+1. The Program I Can't Work Without/My Favorite Little Program: _name_
 1. The Worst Interview Experience(s) I've Had
 1. The Worst Project(s) I've Worked On
 1. What I Want to Learn Next and Why
