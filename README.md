@@ -28,7 +28,7 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. The Coolest Thing I Learned This Year
 1. The Last Time I Brought Down Production
 1. The Silliest App(s) I've Made
-1. The Tool I Can't Work Without
+1. The Tool I Can't Work Without/My Favorite Little Tool: _name_
 1. The Worst Interview Experience(s) I've Had
 1. The Worst Project(s) I've Worked On
 1. What I Want to Learn Next and Why
@@ -48,3 +48,6 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. Salary negotation for a new job
 1. Salary negotiation for an existing job
 1. Creating a 30-second intro/elevator pitch about yourself
+1. Why I Chose This Tech Stack: _Tech List_
+1. Starting a Project in _Technology X_
+1. How to Get Started with _Technology X_
