@@ -51,3 +51,15 @@ Want to give a talk but having trouble coming up with an idea? Feel free to pick
 1. Why I Chose This Tech Stack: _Tech List_
 1. Starting a Project in _Technology X_
 1. How to Get Started with _Technology X_
+1. Projects to Put on Your Portfolio
+1. Where to Start when You're Starting Over as a Career Changer
+1. Dealing with Imposter Syndrome when Everyone Else Your Age is a Senior Dev or Manager
+1. Convincing Hiring Managers that You Know Things when You Don't Feel Like You Do
+1. Converting Academic Knowledge into What Hiring Managers Want
+1. Dealing with ageism in hiring practices
+1. Dealing with health concerns while finding a job
+1. Being involved in a tech community when I can barely be involved in my life
+1. Navigating hiring and job seeking with a mental disorder or health condition
+1. Neuro-divergence and tech: Succeeding when you don't think like everyone else
+1. How, when and If to bring up medical or mental conditions
+1. Challenges facing minorities in tech locally and how to respectfully address them
